@@ -4,7 +4,7 @@ import { startLoading, endLoading } from '../main'
 import { Notification } from 'element-ui'
 
 const server = axios.create({
-  baseURL: 'http://jianglin.space:8090',
+  baseURL: 'http://124.221.158.23:8090',
   timeout: 5000
 })
 
